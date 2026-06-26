@@ -1,0 +1,7 @@
+Ficheiro /var/log/secure não encontrado. A usarlogs de exemplo.
+==================================================
+IPs com mais de 5 tentativas falhadas:
+==================================================
+192.168.56.105 - 3 tentativas (abaixo do limite)
+192.168.56.106 - 2 tentativas (abaixo do limite)
+192.168.56.107 - 5 tentativas (abaixo do limite)

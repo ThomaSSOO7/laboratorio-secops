@@ -1,0 +1,2 @@
+Hash SHA256 de /etc/passwd: 397f374992795ee5fe65fce8059b2986c875872bcfe9e238120f1e3a15525a5d
+   Ficheiro não foi alterado.
